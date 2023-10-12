@@ -1,0 +1,20 @@
+{
+    "name": "aden/aframework",
+    "description": "A hopefully lightweight php framework.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aden\\aFramework\\": "src/"
+        },
+        "files": [
+            "src/framework.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Aden Potts",
+            "email": "adenpotts01@icloud.com"
+        }
+    ],
+    "require": {}
+}
