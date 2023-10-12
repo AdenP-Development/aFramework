@@ -1,3 +1,4 @@
 App/*
 !App/index.html
+src/SQL/Databases/*.db
 .env
